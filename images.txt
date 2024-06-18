@@ -1,6 +1,12 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+#
+--platform=linux/arm64 ngoduykhanh/wireguard-ui:0.6.2
+--platform=linux/arm64 nps:v0.26.19
+nps:v0.26.19
+npc:v0.26.19
+--platform=linux/arm64 npc:v0.26.19
