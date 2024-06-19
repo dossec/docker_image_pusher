@@ -5,7 +5,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #
---platform=linux/arm64 yisier1/nps:v0.26.19
-yisier1/nps:v0.26.19
-yisier1/npc:v0.26.19
---platform=linux/arm64 yisier1/npc:v0.26.19
+#--platform=linux/arm64 yisier1/nps:v0.26.19
+#yisier1/nps:v0.26.19
+#yisier1/npc:v0.26.19
+#--platform=linux/arm64 yisier1/npc:v0.26.19
+rustdesk/rustdesk-server:1.1.11-1
+--platform=linux/arm64 rustdesk/rustdesk-server:1.1.11-1
