@@ -13,4 +13,5 @@
 #--platform=linux/arm64 rustdesk/rustdesk-server:1.1.11-1
 #v5star/rustdesk-api
 #ghcr.io/kingmo888/rustdesk-api-server:latest
-wgportal/wg-portal:v2
+wgportal/wg-portal:latest
+repo.nerthus.nl/app/wireguard-dashboard:latest
