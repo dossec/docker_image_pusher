@@ -16,7 +16,8 @@
 #wgportal/wg-portal:latest
 #repo.nerthus.nl/app/wireguard-dashboard:latest
 #vyos/vyos-build:sagitta
-registry.dockermirror.com/library/mysql:8.0.37-oraclelinux9
-registry.dockermirror.com/zabbix/zabbix-server-mysql:ubuntu-7.0-latest
-registry.dockermirror.com/zabbix/zabbix-web-apache-mysql:ubuntu-7.0-latest
-registry.dockermirror.com/zabbix/zabbix-agent:ubuntu-7.0-latest
+#registry.dockermirror.com/library/mysql:8.0.37-oraclelinux9
+#registry.dockermirror.com/zabbix/zabbix-server-mysql:ubuntu-7.0-latest
+#registry.dockermirror.com/zabbix/zabbix-web-apache-mysql:ubuntu-7.0-latest
+#registry.dockermirror.com/zabbix/zabbix-agent:ubuntu-7.0-latest
+weejewel/wg-easy:7-nightly
