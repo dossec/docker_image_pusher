@@ -20,4 +20,6 @@
 #registry.dockermirror.com/zabbix/zabbix-server-mysql:ubuntu-7.0-latest
 #registry.dockermirror.com/zabbix/zabbix-web-apache-mysql:ubuntu-7.0-latest
 #registry.dockermirror.com/zabbix/zabbix-agent:ubuntu-7.0-latest
-weejewel/wg-easy:7-nightly
+#weejewel/wg-easy:7-nightly
+ghcr.io/wg-easy/wg-easy:v13
+ghcr.io/wg-easy/wg-easy:v14
