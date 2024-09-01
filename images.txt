@@ -21,5 +21,6 @@
 #registry.dockermirror.com/zabbix/zabbix-web-apache-mysql:ubuntu-7.0-latest
 #registry.dockermirror.com/zabbix/zabbix-agent:ubuntu-7.0-latest
 #weejewel/wg-easy:7-nightly
-ghcr.io/wg-easy/wg-easy:13
-ghcr.io/wg-easy/wg-easy:14
+#ghcr.io/wg-easy/wg-easy:13
+#ghcr.io/wg-easy/wg-easy:14
+ghcr.io/wg-easy/wg-easy:12
