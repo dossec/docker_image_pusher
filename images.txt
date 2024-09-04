@@ -23,4 +23,9 @@
 #weejewel/wg-easy:7-nightly
 #ghcr.io/wg-easy/wg-easy:13
 #ghcr.io/wg-easy/wg-easy:14
-ghcr.io/wg-easy/wg-easy:12
+#ghcr.io/wg-easy/wg-easy:12
+linuxserver/wireguard:legacy-v1.0.20210914-ls51
+linuxserver/wireguard:legacy-v1.0.20210914-ls65
+linuxserver/wireguard:1.0.20210914-r4-ls45
+linuxserver/wireguard:1.0.20210914-r4-ls49
+
